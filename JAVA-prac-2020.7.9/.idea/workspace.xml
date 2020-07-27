@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="230dfda1-d917-435b-aafe-0f8d4eab0732" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eRSz9PBaTLGeSvHQa7DEreFtQz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA-prac-2020.7.21/src/a2020_7_21/a_Object类" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.9\src\a_2020_7_17\a_final关键字\a_基本介绍" />
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.9\src\a2020_7_16\a_接口\a_基本介绍" />
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.9\src\a2020_7_16\a_接口\a_基本介绍\e_接口中的成员变量" />
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.9\src\a2020_7_15\继承\基本介绍" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="a2020_7_16.a_接口.a_基本介绍.e_接口中的成员变量" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.21\src\a2020_7_21\a_Object类" />
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.9\pic" />
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.9\src\a2020_7_21\b_发红包案例进阶\a_实现代码" />
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.9\src\a2020_7_21\b_发红包案例进阶" />
+      <recent name="D:\Practice all\JAVAprac\JAVA-prac-2020.7.9\src\a2020_7_21\a_引用类型作成员变量_参数_返回值\b_接口作成员变量" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Bootstrap">
+    <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2020_7_21.b_发红包案例进阶.a_实现代码.Bootstrap" />
+      <module name="JAVA-prac-2020.7.9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a2020_7_21.b_发红包案例进阶.a_实现代码.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02Instanceof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2020_7_16.b_多态.c_多态中对象的向上向下转型即instanceof.Demo02Instanceof" />
+      <module name="JAVA-prac-2020.7.9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a2020_7_16.b_多态.c_多态中对象的向上向下转型即instanceof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2020_7_21.a_引用类型作成员变量_参数_返回值.b_接口作成员变量.DemoGame" />
+      <module name="JAVA-prac-2020.7.9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a2020_7_21.a_引用类型作成员变量_参数_返回值.c_接口作为参数和返回值.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2020_7_16.b_多态.d_综合案例.DemoMain" />
+      <module name="JAVA-prac-2020.7.9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a2020_7_16.b_多态.d_综合案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a2020_7_17.c_内部类.e_匿名内部类.DemoMain" />
+      <module name="JAVA-prac-2020.7.9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a2020_7_17.c_内部类.e_匿名内部类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bootstrap" />
+        <item itemvalue="Application.DemoGame" />
+        <item itemvalue="Application.DemoMain (2)" />
+        <item itemvalue="Application.DemoMain (1)" />
+        <item itemvalue="Application.Demo02Instanceof" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="230dfda1-d917-435b-aafe-0f8d4eab0732" name="Default Changelist" comment="" />
+      <created>1594283171386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594283171386</updated>
+      <workItem from="1594283174185" duration="1791000" />
+      <workItem from="1594347657281" duration="12517000" />
+      <workItem from="1594692343262" duration="18785000" />
+      <workItem from="1594779080472" duration="15984000" />
+      <workItem from="1594865699486" duration="17358000" />
+      <workItem from="1594951103815" duration="4435000" />
+      <workItem from="1595296357167" duration="12161000" />
+      <workItem from="1595319066271" duration="1521000" />
+      <workItem from="1595484479958" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

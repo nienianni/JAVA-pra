@@ -1,0 +1,19 @@
+package a2020_7_14.d_对象数组ArrayList.对象数组ArrayList_基本操作;
+
+import java.util.ArrayList;
+
+public class Demo04ArrayListEach {
+
+    public static void main(String[] args) {
+        ArrayList<String> list = new ArrayList<>();
+        list.add("迪丽热巴");
+        list.add("古力娜扎");
+        list.add("玛尔扎哈");
+
+        // 遍历集合
+        for (int i = 0; i < list.size(); i++) {
+            System.out.println(list.get(i));
+        }
+    }
+
+}
